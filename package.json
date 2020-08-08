@@ -1,0 +1,11 @@
+{
+  "name": "cssidjs",
+  "version": "1.0.0",
+  "description": "cssId.js",
+  "main": "cssid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NriotHrreion",
+  "license": "MIT"
+}
